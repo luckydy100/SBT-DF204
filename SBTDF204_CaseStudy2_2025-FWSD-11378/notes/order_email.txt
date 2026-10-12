@@ -1,0 +1,35 @@
+  visit_id = 43
+    url_id = 34
+       url = https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqXBGCnHkHGxZnZbkXKdXnJTmxwZwPtjVmvHMrfPPRthPXJgXngHcFLmggWv
+     title = cheaper than Rx supplements - order - unsub.fscs@gmail.com - Gmail
+ visit_utc = 2022-04-19 14:04:12
+from_visit = 0
+transition = 268435456
+  tran_hex = 0x10000000
+
+  visit_id = 44
+    url_id = 35
+       url = https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqXBGCnHkHGxZnZbkXKdXnJTmxwZwPtjVmvHMrfPPRthPXJgXngHcFLmggWv?compose=JHrtffdgkFjdrvzMfJPRMHgQmSZBjzPlcXtWPRlXfSGwhzrQgskTqNxQLFWSmhvscKrDpXcPbHKpCDnqPgtmpWSJWbLlCLcpRBwKDFNRmPLzKkvkC
+     title = cheaper than Rx supplements - order - unsub.fscs@gmail.com - Gmail
+ visit_utc = 2022-04-19 14:04:35
+from_visit = 43
+transition = 1073741824
+  tran_hex = 0x40000000
+
+  visit_id = 45
+    url_id = 36
+       url = https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqXBGCnHkHGxZnZbkXKdXnJTmxwZwPtjVmvHMrfPPRthPXJgXngHcFLmggWv?compose=DXDwSWwxqgzWzDRtRJhRTXQgRWQdlXLDsZNVCgswmTqsxJBwBsdXxSKvPCxdbcBxxgBdwWDSvwScdmrjTqtTPCDbWhdHHQqGsTtBblLnfbhKchZLqdPKdpwL
+     title = cheaper than Rx supplements - order - unsub.fscs@gmail.com - Gmail
+ visit_utc = 2022-04-19 14:04:46
+from_visit = 44
+transition = 1073741824
+  tran_hex = 0x40000000
+
+  visit_id = 46
+    url_id = 34
+       url = https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqXBGCnHkHGxZnZbkXKdXnJTmxwZwPtjVmvHMrfPPRthPXJgXngHcFLmggWv
+     title = cheaper than Rx supplements - order - unsub.fscs@gmail.com - Gmail
+ visit_utc = 2022-04-19 14:04:52
+from_visit = 45
+transition = 1610612736
+  tran_hex = 0x60000000

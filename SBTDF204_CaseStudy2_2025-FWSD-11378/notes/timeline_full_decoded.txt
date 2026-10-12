@@ -1,0 +1,76 @@
+vid  uid  visit_utc            from_v  base     tran_hex  title_short                                  
+---  ---  -------------------  ------  -------  --------  ---------------------------------------------
+1    1    2022-04-19 13:54:18  0       OMNIBOX  30000005  craigslist - Google Search                   
+2    1    2022-04-19 13:54:19  0       LINK     30000000  craigslist - Google Search                   
+3    2    2022-04-19 13:54:19  2       LINK     10000000  craigslist: baltimore jobs, apartments, for s
+4    3    2022-04-19 13:54:19  3       LINK     80000000  craigslist: baltimore jobs, apartments, for s
+5    4    2022-04-19 13:54:19  4       LINK     A0000000  craigslist: baltimore jobs, apartments, for s
+6    5    2022-04-19 13:54:22  5       LINK     10000000  craigslist account                           
+7    6    2022-04-19 13:54:22  6       LINK     A0000000  craigslist - account log in                  
+8    5    2022-04-19 13:54:39  7       FORM     30000007  craigslist account                           
+9    2    2022-04-19 13:55:03  8       LINK     10000000  craigslist: baltimore jobs, apartments, for s
+10   4    2022-04-19 13:55:03  9       LINK     A0000000  craigslist: baltimore jobs, apartments, for s
+11   7    2022-04-19 13:55:05  10      LINK     10000000  baltimore | choose type                      
+12   8    2022-04-19 13:55:05  11      LINK     80000000  baltimore | posting confirmation             
+13   9    2022-04-19 13:55:05  12      LINK     A0000000  baltimore | choose type                      
+14   10   2022-04-19 13:55:10  13      FORM     30000007  baltimore | choose category                  
+15   11   2022-04-19 13:55:15  14      FORM     30000007  baltimore | create posting                   
+16   12   2022-04-19 13:58:13  15      FORM     30000007  baltimore | add map                          
+17   13   2022-04-19 13:58:17  16      FORM     30000007  baltimore | create posting                   
+18   14   2022-04-19 13:58:19  17      FORM     30000007  baltimore | create posting                   
+19   8    2022-04-19 13:58:22  18      FORM     30000007  baltimore | posting confirmation             
+20   15   2022-04-19 13:58:27  19      LINK     30000000  baltimore | manage posting                   
+21   16   2022-04-19 13:58:31  0       LINK     30000000  cheaper than Rx supplements - health and beau
+22   17   2022-04-19 13:58:38  0       OMNIBOX  32000005  gmail - Google Search                        
+23   17   2022-04-19 13:58:39  0       LINK     30000000  gmail - Google Search                        
+24   18   2022-04-19 13:58:40  23      LINK     10000000  Gmail: Free, Private & Secure Email | Google 
+25   19   2022-04-19 13:58:40  24      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+26   20   2022-04-19 13:58:40  25      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+27   21   2022-04-19 13:58:40  26      LINK     80000000  Gmail: Free, Private & Secure Email | Google 
+28   22   2022-04-19 13:58:40  27      LINK     80000000  Gmail: Free, Private & Secure Email | Google 
+29   23   2022-04-19 13:58:40  28      LINK     80000000  Gmail: Free, Private & Secure Email | Google 
+30   24   2022-04-19 13:58:40  29      LINK     A0000000  Gmail: Free, Private & Secure Email | Google 
+31   25   2022-04-19 13:58:43  0       LINK     10000000  Gmail                                        
+32   26   2022-04-19 13:58:43  31      LINK     80000000  Gmail                                        
+33   27   2022-04-19 13:58:43  32      LINK     A0000000  Gmail                                        
+34   27   2022-04-19 13:58:44  0       LINK     30000000  Gmail                                        
+35   28   2022-04-19 13:58:44  0       LINK     30000000  Gmail                                        
+36   29   2022-04-19 13:59:26  0       LINK     30000000  Gmail                                        
+37   30   2022-04-19 13:59:29  36      LINK     10000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+38   31   2022-04-19 13:59:29  37      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+39   32   2022-04-19 13:59:29  38      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+40   19   2022-04-19 13:59:29  39      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+41   20   2022-04-19 13:59:29  40      LINK     80000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+42   33   2022-04-19 13:59:31  41      LINK     60000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+43   34   2022-04-19 14:04:12  0       LINK     10000000  cheaper than Rx supplements - order - unsub.f
+44   35   2022-04-19 14:04:35  43      LINK     40000000  cheaper than Rx supplements - order - unsub.f
+45   36   2022-04-19 14:04:46  44      LINK     40000000  cheaper than Rx supplements - order - unsub.f
+46   34   2022-04-19 14:04:52  45      LINK     60000000  cheaper than Rx supplements - order - unsub.f
+47   33   2022-04-19 14:05:59  0       LINK     30000000  Inbox (12) - unsub.fscs@gmail.com - Gmail    
+48   37   2022-04-19 14:56:47  0       LINK     10000000  cheaper than Rx supplements -- txid: 517b2156
+49   38   2022-04-19 14:56:52  0       LINK     10000000  Imgur: The magic of the Internet             
+50   39   2022-04-19 14:56:52  49      LINK     A0000000  Imgur: The magic of the Internet             
+51   40   2022-04-19 14:58:59  0       OMNIBOX  32000005  blockchain explorer - Google Search          
+52   40   2022-04-19 14:59:00  0       LINK     30000000  blockchain explorer - Google Search          
+53   41   2022-04-19 14:59:01  52      LINK     30000000  Blockchain Explorer - Search the Blockchain |
+54   41   2022-04-19 14:59:02  0       LINK     30000000  Blockchain Explorer - Search the Blockchain |
+55   42   2022-04-19 14:59:06  54      LINK     10000000  Transaction: 517b2156914944339a96137ad8978408
+56   43   2022-04-19 14:59:06  55      LINK     A0000000  Transaction: 517b2156914944339a96137ad8978408
+57   43   2022-04-19 14:59:06  54      LINK     30000000  Transaction: 517b2156914944339a96137ad8978408
+58   44   2022-04-19 14:59:21  54      LINK     30000000  Address: 38RcsURWCDmCbYocmsZCnGz1FtD7x477mt |
+59   45   2022-04-19 14:59:38  0       OMNIBOX  32000005  kraken - Google Search                       
+60   45   2022-04-19 14:59:39  0       LINK     30000000  kraken - Google Search                       
+61   46   2022-04-19 14:59:47  60      LINK     30000000  Sign in to Kraken - Kraken | Buy, Sell and Ma
+62   46   2022-04-19 14:59:47  0       LINK     30000000  Sign in to Kraken - Kraken | Buy, Sell and Ma
+63   47   2022-04-19 15:00:21  0       LINK     30000000  Approve new device - Kraken | Buy, Sell and M
+64   48   2022-04-19 15:01:11  63      LINK     30000000                                               
+65   49   2022-04-19 15:01:12  63      LINK     30000000  Kraken | Buy, Sell and Margin Trade Bitcoin (
+66   50   2022-04-19 15:01:21  63      LINK     30000000  41,543.80 USD - Kraken - Funding - Overview  
+67   51   2022-04-19 15:01:31  0       LINK     10000000  Transaction: 517b2156914944339a96137ad8978408
+68   52   2022-04-19 15:01:33  67      LINK     40000000  Transaction: 517b2156914944339a96137ad8978408
+69   53   2022-04-19 15:01:33  68      LINK     80000000  Transaction: 517b2156914944339a96137ad8978408
+70   54   2022-04-19 15:01:33  69      LINK     A0000000  Transaction: 517b2156914944339a96137ad8978408
+71   55   2022-04-19 15:02:05  63      LINK     30000000  41,563.70 USD - Kraken - History - Ledger    
+72   56   2022-04-19 15:02:32  48      LINK     40000000  cheaper than Rx supplements - order - unsub.f
+73   57   2022-04-19 15:02:44  72      LINK     40000000  cheaper than Rx supplements - order - unsub.f
+74   37   2022-04-19 15:02:56  73      LINK     60000000  cheaper than Rx supplements -- txid: 517b2156

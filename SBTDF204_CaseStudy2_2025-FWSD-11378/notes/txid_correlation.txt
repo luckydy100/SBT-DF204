@@ -1,0 +1,11 @@
+visit_id  url_id  url_short                                                                                             title                                                         visit_utc          
+--------  ------  ----------------------------------------------------------------------------------------------------  ------------------------------------------------------------  -------------------
+48        37      https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqvtRjhGdkMBqVNFnwtCnJjRvqlXsZNkFbrkGDZwdVPkdDvjB  cheaper than Rx supplements -- txid: 517b2156914944339a96137  2022-04-19 14:56:47
+55        42      https://www.blockchain.com/search?search=517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888  Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 14:59:06
+56        43      https://www.blockchain.com/btc/tx/517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5    Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 14:59:06
+57        43      https://www.blockchain.com/btc/tx/517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5    Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 14:59:06
+67        51      https://www.kraken.com/redirect?url=https%3A%2F%2Fmempool.space%2Ftx%2F517b2156914944339a96137ad8978  Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 15:01:31
+68        52      http://www.kraken.com/redirect?t=-_F22IhwssFD                                                         Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 15:01:33
+69        53      https://www.kraken.com/redirect?t=-_F22IhwssFD                                                        Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 15:01:33
+70        54      https://mempool.space/tx/517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5             Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d  2022-04-19 15:01:33
+74        37      https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqvtRjhGdkMBqVNFnwtCnJjRvqlXsZNkFbrkGDZwdVPkdDvjB  cheaper than Rx supplements -- txid: 517b2156914944339a96137  2022-04-19 15:02:56

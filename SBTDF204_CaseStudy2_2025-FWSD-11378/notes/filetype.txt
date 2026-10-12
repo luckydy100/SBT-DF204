@@ -1,0 +1,1 @@
+History: SQLite 3.x database, last written using SQLite version 3036000, file counter 33, database pages 41, cookie 0xa7, schema 4, UTF-8, version-valid-for 33

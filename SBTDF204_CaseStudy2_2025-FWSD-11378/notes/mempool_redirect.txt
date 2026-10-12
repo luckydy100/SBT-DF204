@@ -1,0 +1,31 @@
+  visit_id = 67
+    url_id = 51
+       url = https://www.kraken.com/redirect?url=https%3A%2F%2Fmempool.space%2Ftx%2F517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5
+     title = Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5 - mempool - Bitcoin Explorer
+ visit_utc = 2022-04-19 15:01:31
+from_visit = 0
+  tran_hex = 0x10000000
+
+  visit_id = 68
+    url_id = 52
+       url = http://www.kraken.com/redirect?t=-_F22IhwssFD
+     title = Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5 - mempool - Bitcoin Explorer
+ visit_utc = 2022-04-19 15:01:33
+from_visit = 67
+  tran_hex = 0x40000000
+
+  visit_id = 69
+    url_id = 53
+       url = https://www.kraken.com/redirect?t=-_F22IhwssFD
+     title = Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5 - mempool - Bitcoin Explorer
+ visit_utc = 2022-04-19 15:01:33
+from_visit = 68
+  tran_hex = 0x80000000
+
+  visit_id = 70
+    url_id = 54
+       url = https://mempool.space/tx/517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5
+     title = Transaction: 517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5 - mempool - Bitcoin Explorer
+ visit_utc = 2022-04-19 15:01:33
+from_visit = 69
+  tran_hex = 0xA0000000

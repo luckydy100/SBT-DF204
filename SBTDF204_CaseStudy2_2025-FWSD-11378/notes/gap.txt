@@ -1,0 +1,5 @@
+visit_utc            visit_id  marker                                 
+-------------------  --------  ---------------------------------------
+2022-04-19 14:04:52  46                                               
+2022-04-19 14:05:59  47        ← gap starts (last activity before gap)
+2022-04-19 14:56:47  48        ← gap ends (first activity after gap)  

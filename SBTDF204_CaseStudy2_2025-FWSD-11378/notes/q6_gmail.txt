@@ -1,0 +1,27 @@
+visit_id  url_id  title                                                         visit_utc            from_visit  base
+--------  ------  ------------------------------------------------------------  -------------------  ----------  ----
+25        19      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:58:40  24          LINK
+26        20      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:58:40  25          LINK
+27        21      Gmail: Free, Private & Secure Email | Google Workspace        2022-04-19 13:58:40  26          LINK
+28        22      Gmail: Free, Private & Secure Email | Google Workspace        2022-04-19 13:58:40  27          LINK
+31        25      Gmail                                                         2022-04-19 13:58:43  0           LINK
+32        26      Gmail                                                         2022-04-19 13:58:43  31          LINK
+33        27      Gmail                                                         2022-04-19 13:58:43  32          LINK
+34        27      Gmail                                                         2022-04-19 13:58:44  0           LINK
+35        28      Gmail                                                         2022-04-19 13:58:44  0           LINK
+36        29      Gmail                                                         2022-04-19 13:59:26  0           LINK
+37        30      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:29  36          LINK
+38        31      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:29  37          LINK
+39        32      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:29  38          LINK
+40        19      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:29  39          LINK
+41        20      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:29  40          LINK
+42        33      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 13:59:31  41          LINK
+43        34      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 14:04:12  0           LINK
+44        35      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 14:04:35  43          LINK
+45        36      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 14:04:46  44          LINK
+46        34      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 14:04:52  45          LINK
+47        33      Inbox (12) - unsub.fscs@gmail.com - Gmail                     2022-04-19 14:05:59  0           LINK
+48        37      cheaper than Rx supplements -- txid: 517b2156914944339a96137  2022-04-19 14:56:47  0           LINK
+72        56      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 15:02:32  48          LINK
+73        57      cheaper than Rx supplements - order - unsub.fscs@gmail.com -  2022-04-19 15:02:44  72          LINK
+74        37      cheaper than Rx supplements -- txid: 517b2156914944339a96137  2022-04-19 15:02:56  73          LINK

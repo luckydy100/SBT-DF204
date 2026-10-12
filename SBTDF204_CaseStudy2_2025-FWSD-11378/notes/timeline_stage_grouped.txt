@@ -1,0 +1,76 @@
+stage                       visit_utc            visit_id  url_id  base     from_visit  title_short                                            
+--------------------------  -------------------  --------  ------  -------  ----------  -------------------------------------------------------
+1. Posting                  2022-04-19 13:54:18  1         1       OMNIBOX  0           craigslist - Google Search                             
+1. Posting                  2022-04-19 13:54:19  2         1       LINK     0           craigslist - Google Search                             
+1. Posting                  2022-04-19 13:54:19  3         2       LINK     2           craigslist: baltimore jobs, apartments, for sale, servi
+1. Posting                  2022-04-19 13:54:19  4         3       LINK     3           craigslist: baltimore jobs, apartments, for sale, servi
+1. Posting                  2022-04-19 13:54:19  5         4       LINK     4           craigslist: baltimore jobs, apartments, for sale, servi
+1. Posting                  2022-04-19 13:54:22  6         5       LINK     5           craigslist account                                     
+1. Posting                  2022-04-19 13:54:22  7         6       LINK     6           craigslist - account log in                            
+1. Posting                  2022-04-19 13:54:39  8         5       FORM     7           craigslist account                                     
+1. Posting                  2022-04-19 13:55:03  9         2       LINK     8           craigslist: baltimore jobs, apartments, for sale, servi
+1. Posting                  2022-04-19 13:55:03  10        4       LINK     9           craigslist: baltimore jobs, apartments, for sale, servi
+1. Posting                  2022-04-19 13:55:05  11        7       LINK     10          baltimore | choose type                                
+1. Posting                  2022-04-19 13:55:05  12        8       LINK     11          baltimore | posting confirmation                       
+1. Posting                  2022-04-19 13:55:05  13        9       LINK     12          baltimore | choose type                                
+1. Posting                  2022-04-19 13:55:10  14        10      FORM     13          baltimore | choose category                            
+1. Posting                  2022-04-19 13:55:15  15        11      FORM     14          baltimore | create posting                             
+1. Posting                  2022-04-19 13:58:13  16        12      FORM     15          baltimore | add map                                    
+1. Posting                  2022-04-19 13:58:17  17        13      FORM     16          baltimore | create posting                             
+1. Posting                  2022-04-19 13:58:19  18        14      FORM     17          baltimore | create posting                             
+1. Posting                  2022-04-19 13:58:22  19        8       FORM     18          baltimore | posting confirmation                       
+1. Posting                  2022-04-19 13:58:27  20        15      LINK     19          baltimore | manage posting                             
+1. Posting                  2022-04-19 13:58:31  21        16      LINK     0           cheaper than Rx supplements - health and beauty - by ow
+2. Communications           2022-04-19 13:58:38  22        17      OMNIBOX  0           gmail - Google Search                                  
+2. Communications           2022-04-19 13:58:39  23        17      LINK     0           gmail - Google Search                                  
+2. Communications           2022-04-19 13:58:40  24        18      LINK     23          Gmail: Free, Private & Secure Email | Google Workspace 
+2. Communications           2022-04-19 13:58:40  25        19      LINK     24          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:58:40  26        20      LINK     25          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:58:40  27        21      LINK     26          Gmail: Free, Private & Secure Email | Google Workspace 
+2. Communications           2022-04-19 13:58:40  28        22      LINK     27          Gmail: Free, Private & Secure Email | Google Workspace 
+2. Communications           2022-04-19 13:58:40  29        23      LINK     28          Gmail: Free, Private & Secure Email | Google Workspace 
+2. Communications           2022-04-19 13:58:40  30        24      LINK     29          Gmail: Free, Private & Secure Email | Google Workspace 
+2. Communications           2022-04-19 13:58:43  31        25      LINK     0           Gmail                                                  
+2. Communications           2022-04-19 13:58:43  32        26      LINK     31          Gmail                                                  
+2. Communications           2022-04-19 13:58:43  33        27      LINK     32          Gmail                                                  
+2. Communications           2022-04-19 13:58:44  34        27      LINK     0           Gmail                                                  
+2. Communications           2022-04-19 13:58:44  35        28      LINK     0           Gmail                                                  
+2. Communications           2022-04-19 13:59:26  36        29      LINK     0           Gmail                                                  
+2. Communications           2022-04-19 13:59:29  37        30      LINK     36          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:59:29  38        31      LINK     37          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:59:29  39        32      LINK     38          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:59:29  40        19      LINK     39          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:59:29  41        20      LINK     40          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 13:59:31  42        33      LINK     41          Inbox (12) - unsub.fscs@gmail.com - Gmail              
+2. Communications           2022-04-19 14:04:12  43        34      LINK     0           cheaper than Rx supplements - order - unsub.fscs@gmail.
+2. Communications           2022-04-19 14:04:35  44        35      LINK     43          cheaper than Rx supplements - order - unsub.fscs@gmail.
+2. Communications           2022-04-19 14:04:46  45        36      LINK     44          cheaper than Rx supplements - order - unsub.fscs@gmail.
+2. Communications           2022-04-19 14:04:52  46        34      LINK     45          cheaper than Rx supplements - order - unsub.fscs@gmail.
+2. Communications           2022-04-19 14:05:59  47        33      LINK     0           Inbox (12) - unsub.fscs@gmail.com - Gmail              
+3. Payment notification     2022-04-19 14:56:47  48        37      LINK     0           cheaper than Rx supplements -- txid: 517b2156914944339a
+4. Imgur proof              2022-04-19 14:56:52  49        38      LINK     0           Imgur: The magic of the Internet                       
+4. Imgur proof              2022-04-19 14:56:52  50        39      LINK     49          Imgur: The magic of the Internet                       
+5. Blockchain verification  2022-04-19 14:58:59  51        40      OMNIBOX  0           blockchain explorer - Google Search                    
+5. Blockchain verification  2022-04-19 14:59:00  52        40      LINK     0           blockchain explorer - Google Search                    
+5. Blockchain verification  2022-04-19 14:59:01  53        41      LINK     52          Blockchain Explorer - Search the Blockchain | BTC | ETH
+5. Blockchain verification  2022-04-19 14:59:02  54        41      LINK     0           Blockchain Explorer - Search the Blockchain | BTC | ETH
+5. Blockchain verification  2022-04-19 14:59:06  55        42      LINK     54          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+5. Blockchain verification  2022-04-19 14:59:06  56        43      LINK     55          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+5. Blockchain verification  2022-04-19 14:59:06  57        43      LINK     54          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+5. Blockchain verification  2022-04-19 14:59:21  58        44      LINK     54          Address: 38RcsURWCDmCbYocmsZCnGz1FtD7x477mt | Blockchai
+6. Exchange                 2022-04-19 14:59:38  59        45      OMNIBOX  0           kraken - Google Search                                 
+6. Exchange                 2022-04-19 14:59:39  60        45      LINK     0           kraken - Google Search                                 
+6. Exchange                 2022-04-19 14:59:47  61        46      LINK     60          Sign in to Kraken - Kraken | Buy, Sell and Margin Trade
+6. Exchange                 2022-04-19 14:59:47  62        46      LINK     0           Sign in to Kraken - Kraken | Buy, Sell and Margin Trade
+6. Exchange                 2022-04-19 15:00:21  63        47      LINK     0           Approve new device - Kraken | Buy, Sell and Margin Trad
+6. Exchange                 2022-04-19 15:01:11  64        48      LINK     63                                                                 
+6. Exchange                 2022-04-19 15:01:12  65        49      LINK     63          Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and E
+6. Exchange                 2022-04-19 15:01:21  66        50      LINK     63          41,543.80 USD - Kraken - Funding - Overview            
+6. Exchange                 2022-04-19 15:01:31  67        51      LINK     0           Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+6. Exchange                 2022-04-19 15:01:33  68        52      LINK     67          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+6. Exchange                 2022-04-19 15:01:33  69        53      LINK     68          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+6. Exchange                 2022-04-19 15:01:33  70        54      LINK     69          Transaction: 517b2156914944339a96137ad8978408ea52b2fc14
+6. Exchange                 2022-04-19 15:02:05  71        55      LINK     63          41,563.70 USD - Kraken - History - Ledger              
+7. Final replies            2022-04-19 15:02:32  72        56      LINK     48          cheaper than Rx supplements - order - unsub.fscs@gmail.
+7. Final replies            2022-04-19 15:02:44  73        57      LINK     72          cheaper than Rx supplements - order - unsub.fscs@gmail.
+7. Final replies            2022-04-19 15:02:56  74        37      LINK     73          cheaper than Rx supplements -- txid: 517b2156914944339a

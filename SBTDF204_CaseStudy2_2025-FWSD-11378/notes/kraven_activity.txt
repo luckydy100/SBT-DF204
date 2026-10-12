@@ -1,0 +1,12 @@
+visit_id  url_id  url_short                                                                                   title                                                    visit_utc            from_visit  tran_hex  
+--------  ------  ------------------------------------------------------------------------------------------  -------------------------------------------------------  -------------------  ----------  ----------
+61        46      https://www.kraken.com/en-us/sign-in                                                        Sign in to Kraken - Kraken | Buy, Sell and Margin Trade  2022-04-19 14:59:47  60          0x30000000
+62        46      https://www.kraken.com/en-us/sign-in                                                        Sign in to Kraken - Kraken | Buy, Sell and Margin Trade  2022-04-19 14:59:47  0           0x30000000
+63        47      https://www.kraken.com/en-us/device-approval                                                Approve new device - Kraken | Buy, Sell and Margin Trad  2022-04-19 15:00:21  0           0x30000000
+64        48      https://www.kraken.com/u/trade?i=true                                                                                                                2022-04-19 15:01:11  63          0x30000000
+65        49      https://www.kraken.com/u/instant                                                            Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and E  2022-04-19 15:01:12  63          0x30000000
+66        50      https://www.kraken.com/u/funding                                                            41,543.80 USD - Kraken - Funding - Overview              2022-04-19 15:01:21  63          0x30000000
+67        51      https://www.kraken.com/redirect?url=https%3A%2F%2Fmempool.space%2Ftx%2F517b2156914944339a9  Transaction: 517b2156914944339a96137ad8978408ea52b2fc14  2022-04-19 15:01:31  0           0x10000000
+68        52      http://www.kraken.com/redirect?t=-_F22IhwssFD                                               Transaction: 517b2156914944339a96137ad8978408ea52b2fc14  2022-04-19 15:01:33  67          0x40000000
+69        53      https://www.kraken.com/redirect?t=-_F22IhwssFD                                              Transaction: 517b2156914944339a96137ad8978408ea52b2fc14  2022-04-19 15:01:33  68          0x80000000
+71        55      https://www.kraken.com/u/history/ledger                                                     41,563.70 USD - Kraken - History - Ledger                2022-04-19 15:02:05  63          0x30000000

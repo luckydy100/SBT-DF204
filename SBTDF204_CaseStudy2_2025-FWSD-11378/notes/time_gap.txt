@@ -1,0 +1,6 @@
+visit_id  url_short                                                                         visit_utc          
+--------  --------------------------------------------------------------------------------  -------------------
+46        https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqXBGCnHkHGxZnZbkXKdXnJTmxwZw  2022-04-19 14:04:52
+47        https://mail.google.com/mail/u/0/#inbox                                           2022-04-19 14:05:59
+48        https://mail.google.com/mail/u/0/#inbox/WhctKKXXDrfCqvtRjhGdkMBqVNFnwtCnJjRvqlXs  2022-04-19 14:56:47
+49        https://www.google.com/url?q=https://imgur.com/dTgrkP7&source=gmail&ust=16504666  2022-04-19 14:56:52

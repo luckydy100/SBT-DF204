@@ -1,0 +1,76 @@
+visit_id  url_id  title_short                                    visit_utc            from_visit  raw_tran     base_type  base_name    chain  cli_rd  srv_rd  fwd_bk
+--------  ------  ---------------------------------------------  -------------------  ----------  -----------  ---------  -----------  -----  ------  ------  ------
+1         1       craigslist - Google Search                     2022-04-19 13:54:18  0           805306373    5          OMNIBOX      Y      Y       -       -     
+2         1       craigslist - Google Search                     2022-04-19 13:54:19  0           805306368    0          LINK         Y      Y       -       -     
+3         2       craigslist: baltimore jobs, apartments, for s  2022-04-19 13:54:19  2           268435456    0          LINK         Y      -       -       -     
+4         3       craigslist: baltimore jobs, apartments, for s  2022-04-19 13:54:19  3           -2147483648  0          LINK         -      -       -       Y     
+5         4       craigslist: baltimore jobs, apartments, for s  2022-04-19 13:54:19  4           -1610612736  0          LINK         -      Y       -       Y     
+6         5       craigslist account                             2022-04-19 13:54:22  5           268435456    0          LINK         Y      -       -       -     
+7         6       craigslist - account log in                    2022-04-19 13:54:22  6           -1610612736  0          LINK         -      Y       -       Y     
+8         5       craigslist account                             2022-04-19 13:54:39  7           805306375    7          FORM_SUBMIT  Y      Y       -       -     
+9         2       craigslist: baltimore jobs, apartments, for s  2022-04-19 13:55:03  8           268435456    0          LINK         Y      -       -       -     
+10        4       craigslist: baltimore jobs, apartments, for s  2022-04-19 13:55:03  9           -1610612736  0          LINK         -      Y       -       Y     
+11        7       baltimore | choose type                        2022-04-19 13:55:05  10          268435456    0          LINK         Y      -       -       -     
+12        8       baltimore | posting confirmation               2022-04-19 13:55:05  11          -2147483648  0          LINK         -      -       -       Y     
+13        9       baltimore | choose type                        2022-04-19 13:55:05  12          -1610612736  0          LINK         -      Y       -       Y     
+14        10      baltimore | choose category                    2022-04-19 13:55:10  13          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+15        11      baltimore | create posting                     2022-04-19 13:55:15  14          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+16        12      baltimore | add map                            2022-04-19 13:58:13  15          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+17        13      baltimore | create posting                     2022-04-19 13:58:17  16          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+18        14      baltimore | create posting                     2022-04-19 13:58:19  17          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+19        8       baltimore | posting confirmation               2022-04-19 13:58:22  18          805306375    7          FORM_SUBMIT  Y      Y       -       -     
+20        15      baltimore | manage posting                     2022-04-19 13:58:27  19          805306368    0          LINK         Y      Y       -       -     
+21        16      cheaper than Rx supplements - health and beau  2022-04-19 13:58:31  0           805306368    0          LINK         Y      Y       -       -     
+22        17      gmail - Google Search                          2022-04-19 13:58:38  0           838860805    5          OMNIBOX      Y      Y       -       -     
+23        17      gmail - Google Search                          2022-04-19 13:58:39  0           805306368    0          LINK         Y      Y       -       -     
+24        18      Gmail: Free, Private & Secure Email | Google   2022-04-19 13:58:40  23          268435456    0          LINK         Y      -       -       -     
+25        19      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:58:40  24          -2147483648  0          LINK         -      -       -       Y     
+26        20      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:58:40  25          -2147483648  0          LINK         -      -       -       Y     
+27        21      Gmail: Free, Private & Secure Email | Google   2022-04-19 13:58:40  26          -2147483648  0          LINK         -      -       -       Y     
+28        22      Gmail: Free, Private & Secure Email | Google   2022-04-19 13:58:40  27          -2147483648  0          LINK         -      -       -       Y     
+29        23      Gmail: Free, Private & Secure Email | Google   2022-04-19 13:58:40  28          -2147483648  0          LINK         -      -       -       Y     
+30        24      Gmail: Free, Private & Secure Email | Google   2022-04-19 13:58:40  29          -1610612736  0          LINK         -      Y       -       Y     
+31        25      Gmail                                          2022-04-19 13:58:43  0           268435456    0          LINK         Y      -       -       -     
+32        26      Gmail                                          2022-04-19 13:58:43  31          -2147483648  0          LINK         -      -       -       Y     
+33        27      Gmail                                          2022-04-19 13:58:43  32          -1610612736  0          LINK         -      Y       -       Y     
+34        27      Gmail                                          2022-04-19 13:58:44  0           805306368    0          LINK         Y      Y       -       -     
+35        28      Gmail                                          2022-04-19 13:58:44  0           805306368    0          LINK         Y      Y       -       -     
+36        29      Gmail                                          2022-04-19 13:59:26  0           805306368    0          LINK         Y      Y       -       -     
+37        30      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:29  36          268435456    0          LINK         Y      -       -       -     
+38        31      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:29  37          -2147483648  0          LINK         -      -       -       Y     
+39        32      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:29  38          -2147483648  0          LINK         -      -       -       Y     
+40        19      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:29  39          -2147483648  0          LINK         -      -       -       Y     
+41        20      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:29  40          -2147483648  0          LINK         -      -       -       Y     
+42        33      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 13:59:31  41          1610612736   0          LINK         -      Y       Y       -     
+43        34      cheaper than Rx supplements - order - unsub.f  2022-04-19 14:04:12  0           268435456    0          LINK         Y      -       -       -     
+44        35      cheaper than Rx supplements - order - unsub.f  2022-04-19 14:04:35  43          1073741824   0          LINK         -      -       Y       -     
+45        36      cheaper than Rx supplements - order - unsub.f  2022-04-19 14:04:46  44          1073741824   0          LINK         -      -       Y       -     
+46        34      cheaper than Rx supplements - order - unsub.f  2022-04-19 14:04:52  45          1610612736   0          LINK         -      Y       Y       -     
+47        33      Inbox (12) - unsub.fscs@gmail.com - Gmail      2022-04-19 14:05:59  0           805306368    0          LINK         Y      Y       -       -     
+48        37      cheaper than Rx supplements -- txid: 517b2156  2022-04-19 14:56:47  0           268435456    0          LINK         Y      -       -       -     
+49        38      Imgur: The magic of the Internet               2022-04-19 14:56:52  0           268435456    0          LINK         Y      -       -       -     
+50        39      Imgur: The magic of the Internet               2022-04-19 14:56:52  49          -1610612736  0          LINK         -      Y       -       Y     
+51        40      blockchain explorer - Google Search            2022-04-19 14:58:59  0           838860805    5          OMNIBOX      Y      Y       -       -     
+52        40      blockchain explorer - Google Search            2022-04-19 14:59:00  0           805306368    0          LINK         Y      Y       -       -     
+53        41      Blockchain Explorer - Search the Blockchain |  2022-04-19 14:59:01  52          805306368    0          LINK         Y      Y       -       -     
+54        41      Blockchain Explorer - Search the Blockchain |  2022-04-19 14:59:02  0           805306368    0          LINK         Y      Y       -       -     
+55        42      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 14:59:06  54          268435456    0          LINK         Y      -       -       -     
+56        43      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 14:59:06  55          -1610612736  0          LINK         -      Y       -       Y     
+57        43      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 14:59:06  54          805306368    0          LINK         Y      Y       -       -     
+58        44      Address: 38RcsURWCDmCbYocmsZCnGz1FtD7x477mt |  2022-04-19 14:59:21  54          805306368    0          LINK         Y      Y       -       -     
+59        45      kraken - Google Search                         2022-04-19 14:59:38  0           838860805    5          OMNIBOX      Y      Y       -       -     
+60        45      kraken - Google Search                         2022-04-19 14:59:39  0           805306368    0          LINK         Y      Y       -       -     
+61        46      Sign in to Kraken - Kraken | Buy, Sell and Ma  2022-04-19 14:59:47  60          805306368    0          LINK         Y      Y       -       -     
+62        46      Sign in to Kraken - Kraken | Buy, Sell and Ma  2022-04-19 14:59:47  0           805306368    0          LINK         Y      Y       -       -     
+63        47      Approve new device - Kraken | Buy, Sell and M  2022-04-19 15:00:21  0           805306368    0          LINK         Y      Y       -       -     
+64        48                                                     2022-04-19 15:01:11  63          805306368    0          LINK         Y      Y       -       -     
+65        49      Kraken | Buy, Sell and Margin Trade Bitcoin (  2022-04-19 15:01:12  63          805306368    0          LINK         Y      Y       -       -     
+66        50      41,543.80 USD - Kraken - Funding - Overview    2022-04-19 15:01:21  63          805306368    0          LINK         Y      Y       -       -     
+67        51      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 15:01:31  0           268435456    0          LINK         Y      -       -       -     
+68        52      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 15:01:33  67          1073741824   0          LINK         -      -       Y       -     
+69        53      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 15:01:33  68          -2147483648  0          LINK         -      -       -       Y     
+70        54      Transaction: 517b2156914944339a96137ad8978408  2022-04-19 15:01:33  69          -1610612736  0          LINK         -      Y       -       Y     
+71        55      41,563.70 USD - Kraken - History - Ledger      2022-04-19 15:02:05  63          805306368    0          LINK         Y      Y       -       -     
+72        56      cheaper than Rx supplements - order - unsub.f  2022-04-19 15:02:32  48          1073741824   0          LINK         -      -       Y       -     
+73        57      cheaper than Rx supplements - order - unsub.f  2022-04-19 15:02:44  72          1073741824   0          LINK         -      -       Y       -     
+74        37      cheaper than Rx supplements -- txid: 517b2156  2022-04-19 15:02:56  73          1610612736   0          LINK         -      Y       Y       -     
