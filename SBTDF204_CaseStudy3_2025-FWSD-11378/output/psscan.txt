@@ -1,0 +1,80 @@
+Volatility Foundation Volatility Framework 2.6.1
+*** Failed to import volatility.plugins.registry.shutdown (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.getservicesids (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.timeliner (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.malware.apihooks (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.malware.servicediff (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.userassist (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.getsids (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.shellbags (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.evtlogs (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.tcaudit (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.dumpregistry (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.lsadump (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.malware.threads (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks_kernel (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.registry.amcache (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.mac.check_syscall_shadow (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.malware.svcscan (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.auditpol (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.ssdt (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.registry.registryapi (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.mac.apihooks (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.envars (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.shimcache (ImportError: No module named Crypto.Hash)
+Offset(P)          Name                PID   PPID PDB        Time created                   Time exited                   
+------------------ ---------------- ------ ------ ---------- ------------------------------ ------------------------------
+0x000000003e0287f0 WUDFHost.exe       3300    828 0x3efef4c0 2019-01-06 15:03:07 UTC+0000                                 
+0x000000003e27f030 VBoxTray.exe       2632   2524 0x3efef560 2019-01-06 15:02:55 UTC+0000                                 
+0x000000003e2b9820 SearchIndexer.     2960    432 0x3efef580 2019-01-06 15:03:01 UTC+0000                                 
+0x000000003e407030 svchost.exe        2072    432 0x3efef520 2019-01-06 15:02:50 UTC+0000                                 
+0x000000003e423ce8 svchost.exe        1064    432 0x3efef220 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e44fd28 spoolsv.exe        1184    432 0x3efef240 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e491030 svchost.exe        1228    432 0x3efef260 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e4de488 vmicsvc.exe        1364    432 0x3efef2a0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e4e3030 vmicsvc.exe        1388    432 0x3efef2c0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e4e9030 taskhost.exe       1412    432 0x3efef2e0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e4f6d28 vmicsvc.exe        1440    432 0x3efef300 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e506d28 vmicsvc.exe        1492    432 0x3efef340 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e511398 sppsvc.exe         1036    432 0x3efef480 2019-01-06 15:02:50 UTC+0000                                 
+0x000000003e52dd28 svchost.exe        1588    432 0x3efef380 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e5ba860 explorer.exe       2524   2500 0x3efef320 2019-01-06 15:02:54 UTC+0000                                 
+0x000000003e63a030 chrome.exe         2388   2524 0x3efef540 2019-01-06 15:04:30 UTC+0000                                 
+0x000000003e6a4d28 winlogon.exe        388    328 0x3efef0c0 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e6b0310 services.exe        432    340 0x3efef080 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e6bbd28 lsass.exe           440    340 0x3efef0e0 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e6be2c0 lsm.exe             448    340 0x3efef100 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e6be710 svchost.exe        3784    432 0x3efef620 2019-01-06 15:04:51 UTC+0000                                 
+0x000000003e6d9208 svchost.exe         828    432 0x3efef1c0 2019-01-06 15:02:47 UTC+0000                                 
+0x000000003e6f88d8 svchost.exe         552    432 0x3efef120 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e70cb00 VBoxService.ex      616    432 0x3efef140 2019-01-06 18:02:45 UTC+0000                                 
+0x000000003e713030 svchost.exe         672    432 0x3efef160 2019-01-06 15:02:47 UTC+0000                                 
+0x000000003e7a0d28 wlms.exe           1752    432 0x3efef3c0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e7bab00 taskeng.exe        1776    880 0x3efef3e0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e7d6518 svchost.exe         880    432 0x3efef1e0 2019-01-06 15:02:47 UTC+0000                                 
+0x000000003e7dc030 cygrunsrv.exe      1680    432 0x3efef3a0 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003e961030 svchost.exe         724    432 0x3efef180 2019-01-06 15:02:47 UTC+0000                                 
+0x000000003e9ce6d0 rundll32.exe       2320    552 0x3efef500 2019-01-06 15:02:52 UTC+0000                                 
+0x000000003ec845c8 svchost.exe        2416    432 0x3efef5a0 2019-01-06 15:04:30 UTC+0000                                 
+0x000000003ecb11e0 csrss.exe           300    292 0x3efef060 2019-01-06 18:02:44 UTC+0000                                 
+0x000000003ecb21d0 csrss.exe           348    328 0x3efef040 2019-01-06 18:02:44 UTC+0000                                 
+0x000000003ee0bd00 cygrunsrv.exe      1984   1680 0x3efef400 2019-01-06 15:02:49 UTC+0000   2019-01-06 15:02:49 UTC+0000  
+0x000000003ee1cce8 GoogleUpdate.e      192   1776 0x3efef460 2019-01-06 15:02:49 UTC+0000                                 
+0x000000003ee316b8 chrome.exe         2380   2388 0x3efef280 2019-01-06 15:04:30 UTC+0000                                 
+0x000000003ee553f0 vmicsvc.exe        1548    432 0x3efef360 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003eed5a38 dllhost.exe        2228    552 0x3efef6c0 2019-01-06 15:09:07 UTC+0000                                 
+0x000000003efe8520 chrome.exe         1280   2388 0x3efef4a0 2019-01-06 15:04:30 UTC+0000                                 
+0x000000003efec488 smss.exe            236      4 0x3efef020 2019-01-06 18:02:44 UTC+0000                                 
+0x000000003f1992c0 svchost.exe         992    432 0x3efef200 2019-01-06 15:02:48 UTC+0000                                 
+0x000000003f1a2ad0 msiexec.exe        3748    432 0x3efef4e0 2019-01-06 15:03:34 UTC+0000                                 
+0x000000003f1ddd28 dwm.exe            2512    828 0x3efef1a0 2019-01-06 15:02:54 UTC+0000                                 
+0x000000003fc02030 conhost.exe        2000    300 0x3efef420 2019-01-06 15:02:49 UTC+0000                                 
+0x000000003fc03998 sshd.exe           2016   1984 0x3efef440 2019-01-06 15:02:49 UTC+0000                                 
+0x000000003fcb4d28 chrome.exe         2912   2388 0x3efef680 2019-01-06 15:04:32 UTC+0000                                 
+0x000000003fcddd28 conhost.exe        3988    348 0x3efef6e0 2019-01-06 15:06:11 UTC+0000                                 
+0x000000003fceb6b0 chrome.exe          976   2388 0x3efef700 2019-01-06 15:06:23 UTC+0000                                 
+0x000000003fd12030 FTK Imager.exe     2596   2524 0x3efef760 2019-01-06 15:07:15 UTC+0000                                 
+0x000000003fd1fb08 cmd.exe            3996   2524 0x3efef6a0 2019-01-06 15:06:11 UTC+0000                                 
+0x000000003ff032b8 wininit.exe         340    292 0x3efef0a0 2019-01-06 18:02:44 UTC+0000                                 
+0x000000003ff2b658 WmiPrvSE.exe       4032    552 0x3efef640 2019-01-06 15:03:54 UTC+0000                                 
+0x000000003ffba908 System                4      0 0x00185000 2019-01-06 18:02:44 UTC+0000                                 

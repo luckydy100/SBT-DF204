@@ -1,0 +1,184 @@
+Volatility Foundation Volatility Framework 2.6.1
+*** Failed to import volatility.plugins.registry.shutdown (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.getservicesids (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.timeliner (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.malware.apihooks (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.malware.servicediff (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.userassist (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.getsids (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.shellbags (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.evtlogs (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.tcaudit (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.dumpregistry (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.lsadump (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.malware.threads (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks_kernel (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.registry.amcache (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.mac.check_syscall_shadow (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.malware.svcscan (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.auditpol (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.ssdt (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.registry.registryapi (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.mac.apihooks (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.envars (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.registry.shimcache (ImportError: No module named Crypto.Hash)
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    236
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    300
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    340
+Command line : wininit.exe
+************************************************************************
+csrss.exe pid:    348
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    388
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    432
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    440
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    448
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    552
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+VBoxService.ex pid:    616
+Command line : C:\Windows\System32\VBoxService.exe
+************************************************************************
+svchost.exe pid:    672
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    724
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    828
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    880
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:    992
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1064
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1184
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1228
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+vmicsvc.exe pid:   1364
+Command line : C:\Windows\system32\vmicsvc.exe -feature Heartbeat
+************************************************************************
+vmicsvc.exe pid:   1388
+Command line : C:\Windows\system32\vmicsvc.exe -feature KvpExchange
+************************************************************************
+taskhost.exe pid:   1412
+Command line : "taskhost.exe"
+************************************************************************
+vmicsvc.exe pid:   1440
+Command line : C:\Windows\system32\vmicsvc.exe -feature Shutdown
+************************************************************************
+vmicsvc.exe pid:   1492
+Command line : C:\Windows\system32\vmicsvc.exe -feature TimeSync
+************************************************************************
+vmicsvc.exe pid:   1548
+Command line : C:\Windows\system32\vmicsvc.exe -feature VSS
+************************************************************************
+svchost.exe pid:   1588
+Command line : C:\Windows\System32\svchost.exe -k utcsvc
+************************************************************************
+cygrunsrv.exe pid:   1680
+Command line : "C:\Program Files\OpenSSH\bin\cygrunsrv.exe"
+************************************************************************
+wlms.exe pid:   1752
+Command line : C:\Windows\system32\wlms\wlms.exe
+************************************************************************
+taskeng.exe pid:   1776
+Command line : taskeng.exe {FC4C86AC-9A6C-4C7C-BFF5-CAFAAC651D07}
+************************************************************************
+cygrunsrv.exe pid:   1984
+************************************************************************
+conhost.exe pid:   2000
+Command line : \??\C:\Windows\system32\conhost.exe "1155992580-68722237830916436021988465215204400981907203095455997206968901451
+************************************************************************
+sshd.exe pid:   2016
+Command line : "C:\Program Files\OpenSSH\usr\sbin\sshd.exe"
+************************************************************************
+GoogleUpdate.e pid:    192
+Command line : "C:\Program Files\Google\Update\GoogleUpdate.exe" /c
+************************************************************************
+sppsvc.exe pid:   1036
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+svchost.exe pid:   2072
+Command line : C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+************************************************************************
+rundll32.exe pid:   2320
+Command line : C:\Windows\System32\rundll32.exe shell32.dll,SHCreateLocalServerRunDll {995C996E-D918-4a8c-A302-45719A6F4EA7} -Embedding
+************************************************************************
+dwm.exe pid:   2512
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   2524
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+VBoxTray.exe pid:   2632
+Command line : "C:\Windows\System32\VBoxTray.exe" 
+************************************************************************
+SearchIndexer. pid:   2960
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+WUDFHost.exe pid:   3300
+Command line : 
+************************************************************************
+msiexec.exe pid:   3748
+Command line : C:\Windows\system32\msiexec.exe /V
+************************************************************************
+WmiPrvSE.exe pid:   4032
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+chrome.exe pid:   2388
+Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+************************************************************************
+chrome.exe pid:   1280
+Command line : 
+************************************************************************
+chrome.exe pid:   2380
+Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=watcher --main-thread-id=1292 --on-initialized-event-handle=308 --parent-handle=312 /prefetch:6
+************************************************************************
+svchost.exe pid:   2416
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+chrome.exe pid:   2912
+Command line : 
+************************************************************************
+svchost.exe pid:   3784
+Command line : C:\Windows\System32\svchost.exe -k secsvcs
+************************************************************************
+cmd.exe pid:   3996
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:   3988
+Command line : \??\C:\Windows\system32\conhost.exe "-164647720-27591567712364045841175040742-950872444-977965776-107363114-188091992
+************************************************************************
+chrome.exe pid:    976
+Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=904,1792691977862110708,4827585219111034411,131072 --disable-gpu-compositing --service-pipe-token=4706400379687013043 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=4706400379687013043 --renderer-client-id=13 --mojo-platform-channel-handle=3460 /prefetch:1
+************************************************************************
+FTK Imager.exe pid:   2596
+Command line : "C:\Program Files\AccessData\FTK Imager\FTK Imager.exe" 
+************************************************************************
+dllhost.exe pid:   2228
+Command line : C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}

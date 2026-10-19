@@ -1,0 +1,501 @@
+HttpHeaders memdumpWin7_working.mem
+0x2a5c2c2b:$get: GET /
+0x4b9913c:$http: HTTP/1.1 200 OK
+0x107b5370:$http: HTTP/1.1 200 OK
+0x130a513c:$http: HTTP/1.1 200 OK
+0x1b3491ca:$http: HTTP/1.1 200 OK
+0x1d9a0d58:$http: HTTP/1.1 200 OK
+0x273cc370:$http: HTTP/1.1 200 OK
+0x2bc42080:$http: HTTP/1.1 200 OK
+0x2c525f2b:$http: HTTP/1.1 200 OK
+0x2cc8aa81:$http: HTTP/1.1 200 OK
+0x2d6231ca:$http: HTTP/1.1 200 OK
+0x3024fd58:$http: HTTP/1.1 200 OK
+0x39bc6fce:$http: HTTP/1.1 200 OK
+0x3a84a8e0:$http: HTTP/1.1 200 OK
+0x3eb83040:$http: HTTP/1.1 200 OK
+DocxContent memdumpWin7_working.mem
+0x6dd4f4:$pk: 50 4B 03 04
+0x462f187:$pk: 50 4B 03 04
+0x4ee606c:$pk: 50 4B 03 04
+0x7c014f4:$pk: 50 4B 03 04
+0x97ef4fa:$pk: 50 4B 03 04
+0xd465f30:$pk: 50 4B 03 04
+0x12063187:$pk: 50 4B 03 04
+0x139e5000:$pk: 50 4B 03 04
+0x139e5393:$pk: 50 4B 03 04
+0x139e56b3:$pk: 50 4B 03 04
+0x139e58e9:$pk: 50 4B 03 04
+0x139e5b6d:$pk: 50 4B 03 04
+0x13b4df30:$pk: 50 4B 03 04
+0x13bb806c:$pk: 50 4B 03 04
+0x13d73f69:$pk: 50 4B 03 04
+0x1c9887b7:$pk: 50 4B 03 04
+0x1c988a3b:$pk: 50 4B 03 04
+0x1cb53313:$pk: 50 4B 03 04
+0x1cb53787:$pk: 50 4B 03 04
+0x1cb539af:$pk: 50 4B 03 04
+0x1cb53aea:$pk: 50 4B 03 04
+0x1cb53d8d:$pk: 50 4B 03 04
+0x1e51f0bb:$pk: 50 4B 03 04
+0x203a54f4:$pk: 50 4B 03 04
+0x215ec3f1:$pk: 50 4B 03 04
+0x218c4b08:$pk: 50 4B 03 04
+0x218c4b2c:$pk: 50 4B 03 04
+0x218c4b7c:$pk: 50 4B 03 04
+0x21ad430b:$pk: 50 4B 03 04
+0x21ad477f:$pk: 50 4B 03 04
+0x21ad49a7:$pk: 50 4B 03 04
+0x21ad4ae2:$pk: 50 4B 03 04
+0x21ad4d85:$pk: 50 4B 03 04
+0x21e29032:$pk: 50 4B 03 04
+0x21f5402a:$pk: 50 4B 03 04
+0x238d2285:$pk: 50 4B 03 04
+0x238d252a:$pk: 50 4B 03 04
+0x24e982cb:$pk: 50 4B 03 04
+0x24ef81b5:$pk: 50 4B 03 04
+0x24ef880b:$pk: 50 4B 03 04
+0x24ef8c7f:$pk: 50 4B 03 04
+0x24ef8ea7:$pk: 50 4B 03 04
+0x24ef8fe2:$pk: 50 4B 03 04
+0x24f399db:$pk: 50 4B 03 04
+0x24f39cfb:$pk: 50 4B 03 04
+0x24f39f31:$pk: 50 4B 03 04
+0x255f14fa:$pk: 50 4B 03 04
+0x275da4d3:$pk: 50 4B 03 04
+0x275da7f3:$pk: 50 4B 03 04
+0x275daa29:$pk: 50 4B 03 04
+0x275dacad:$pk: 50 4B 03 04
+0x2a7aa0bb:$pk: 50 4B 03 04
+0x2e0f7aff:$pk: 50 4B 03 04
+0x2f5837b7:$pk: 50 4B 03 04
+0x2f583a3b:$pk: 50 4B 03 04
+0x2f7e24e3:$pk: 50 4B 03 04
+0x2f7e2803:$pk: 50 4B 03 04
+0x2f7e2a39:$pk: 50 4B 03 04
+0x2f7e2cbd:$pk: 50 4B 03 04
+0x2f910b08:$pk: 50 4B 03 04
+0x2f910b2c:$pk: 50 4B 03 04
+0x2f910b7c:$pk: 50 4B 03 04
+0x32766187:$pk: 50 4B 03 04
+0x3485d000:$pk: 50 4B 03 04
+0x3485d393:$pk: 50 4B 03 04
+0x3485d6b3:$pk: 50 4B 03 04
+0x3485d8e9:$pk: 50 4B 03 04
+0x3485db6d:$pk: 50 4B 03 04
+0x34d1e06c:$pk: 50 4B 03 04
+0x34e7ee9f:$pk: 50 4B 03 04
+0x35103e9f:$pk: 50 4B 03 04
+0x355cbe9f:$pk: 50 4B 03 04
+0x359daf69:$pk: 50 4B 03 04
+0x377a306c:$pk: 50 4B 03 04
+0x3792a000:$pk: 50 4B 03 04
+0x3792a393:$pk: 50 4B 03 04
+0x3792a6b3:$pk: 50 4B 03 04
+0x3792a8e9:$pk: 50 4B 03 04
+0x3792ab6d:$pk: 50 4B 03 04
+0x3824feb7:$pk: 50 4B 03 04
+0x382e906c:$pk: 50 4B 03 04
+0x39091313:$pk: 50 4B 03 04
+0x39091787:$pk: 50 4B 03 04
+0x390919af:$pk: 50 4B 03 04
+0x39091aea:$pk: 50 4B 03 04
+0x39091d8d:$pk: 50 4B 03 04
+0x3b463aff:$pk: 50 4B 03 04
+0x3c631da0:$pk: 50 4B 03 04
+0x3d6e43f2:$pk: 50 4B 03 04
+0x3d6e4423:$pk: 50 4B 03 04
+0x3db0f330:$pk: 50 4B 03 04
+0x3eb8319e:$pk: 50 4B 03 04
+0x3eb83531:$pk: 50 4B 03 04
+0x3eb8529d:$pk: 50 4B 03 04
+0x3eb854d3:$pk: 50 4B 03 04
+0x3eb871a3:$pk: 50 4B 03 04
+0x3eb89245:$pk: 50 4B 03 04
+0x3eb8b105:$pk: 50 4B 03 04
+0x3eb8b32d:$pk: 50 4B 03 04
+0x3eb8b468:$pk: 50 4B 03 04
+0x3eb8d157:$pk: 50 4B 03 04
+0x3eb8d3fc:$pk: 50 4B 03 04
+0x3f21d313:$pk: 50 4B 03 04
+0x3f21d787:$pk: 50 4B 03 04
+0x3f21d9af:$pk: 50 4B 03 04
+0x3f21daea:$pk: 50 4B 03 04
+0x3f21dd8d:$pk: 50 4B 03 04
+0x3f65f06c:$pk: 50 4B 03 04
+CopyCommand memdumpWin7_working.mem
+0x2e167a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x5d5f7a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0xe3007a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x148e77a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x161a87a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x24d117a2:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x24d11af4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x2a6e67a4:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x3c23b640:$copy1: c\x00o\x00p\x00y\x00 \x00s\x00e\x00c\x00r\x00e\x00t\x00_\x00f\x00i\x00l\x00e\x00.\x00d\x00o\x00c\x00x\x00
+0x59d4df:$copy2: F:\
+0x59d747:$copy2: F:\
+0x59d85f:$copy2: F:\
+0x59ddd7:$copy2: F:\
+0x659460:$copy2: F\x00:\x00\\x00
+0x696657:$copy2: F:\
+0x69668f:$copy2: F:\
+0x6966c7:$copy2: F:\
+0x6966ff:$copy2: F:\
+0x745bb1:$copy2: F:\
+0xecfde3:$copy2: F:\
+0x2e4e5fc:$copy2: F\x00:\x00\\x00
+0x2e4e69c:$copy2: F\x00:\x00\\x00
+0x3bdbf77:$copy2: F:\
+0x3bdbfaf:$copy2: F:\
+0x445c3d7:$copy2: F:\
+0x445c4b7:$copy2: F:\
+0x445c607:$copy2: F:\
+0x445c677:$copy2: F:\
+0x445c6af:$copy2: F:\
+0x445c71f:$copy2: F:\
+0x445c757:$copy2: F:\
+0x445c78f:$copy2: F:\
+0x445ca67:$copy2: F:\
+0x445ca9f:$copy2: F:\
+0x445cb7f:$copy2: F:\
+0x445cd77:$copy2: F:\
+0x45883b4:$copy2: F\x00:\x00\\x00
+0x46c9560:$copy2: F\x00:\x00\\x00
+0x46c9c74:$copy2: F\x00:\x00\\x00
+0x4cde22c:$copy2: F\x00:\x00\\x00
+0x4e58df0:$copy2: F\x00:\x00\\x00
+0x51796b4:$copy2: F\x00:\x00\\x00
+0x527190f:$copy2: F:\
+0x5271baf:$copy2: F:\
+0x5271cff:$copy2: F:\
+0x5271e4f:$copy2: F:\
+0x5325d5c:$copy2: F\x00:\x00\\x00
+0x5438abb:$copy2: F:\
+0x5438e7b:$copy2: F:\
+0x5438ea4:$copy2: F\x00:\x00\\x00
+0x54e2ee3:$copy2: F:\
+0x54e2f0b:$copy2: F:\
+0x56a3744:$copy2: F\x00:\x00\\x00
+0x56ad412:$copy2: F\x00:\x00\\x00
+0x572405c:$copy2: F\x00:\x00\\x00
+0x57ffb43:$copy2: F:\
+0x57ffb93:$copy2: F:\
+0x587c95c:$copy2: F\x00:\x00\\x00
+0x587cc4c:$copy2: F\x00:\x00\\x00
+0x587cfa0:$copy2: F\x00:\x00\\x00
+0x5aa46dc:$copy2: F\x00:\x00\\x00
+0x5c3eb98:$copy2: F\x00:\x00\\x00
+0x5c757f7:$copy2: F:\
+0x5c75b07:$copy2: F:\
+0x61c5d17:$copy2: F:\
+0x6276454:$copy2: F\x00:\x00\\x00
+0x6276aec:$copy2: F\x00:\x00\\x00
+0x6276c54:$copy2: F\x00:\x00\\x00
+0x637b550:$copy2: F\x00:\x00\\x00
+0x6607410:$copy2: F\x00:\x00\\x00
+0x6703fb8:$copy2: F\x00:\x00\\x00
+0x6703fc8:$copy2: F\x00:\x00\\x00
+0x6ec8080:$copy2: F\x00:\x00\\x00
+0x6ec85f8:$copy2: F\x00:\x00\\x00
+0x7655e47:$copy2: F:\
+0x78f64df:$copy2: F:\
+0x78f6747:$copy2: F:\
+0x78f685f:$copy2: F:\
+0x78f6dd7:$copy2: F:\
+0x799f1b3:$copy2: F:\
+0x7ab7460:$copy2: F\x00:\x00\\x00
+0x7b51657:$copy2: F:\
+0x7b5168f:$copy2: F:\
+0x7b516c7:$copy2: F:\
+0x7b516ff:$copy2: F:\
+0x7b60e9c:$copy2: F\x00:\x00\\x00
+0x7d1a920:$copy2: F\x00:\x00\\x00
+0x7d41bb1:$copy2: F:\
+0x826e19f:$copy2: F:\
+0x826e53f:$copy2: F:\
+0x826e627:$copy2: F:\
+0x826e70f:$copy2: F:\
+0x84627d8:$copy2: F\x00:\x00\\x00
+0x8462a7c:$copy2: F\x00:\x00\\x00
+0x8462b04:$copy2: F\x00:\x00\\x00
+0x84cfde5:$copy2: F:\
+0x856a931:$copy2: F:\
+0x87f803f:$copy2: F:\
+0x88f11d4:$copy2: F\x00:\x00\\x00
+0x89750cf:$copy2: F:\
+0x8a3570f:$copy2: F:\
+0x8beabe3:$copy2: F:\
+0x8bedb45:$copy2: F:\
+0x8cfb100:$copy2: F\x00:\x00\\x00
+0x8cfb678:$copy2: F\x00:\x00\\x00
+0x8cfbed8:$copy2: F\x00:\x00\\x00
+0x8df7dff:$copy2: F:\
+0x8e89565:$copy2: F:\
+0x8e89c95:$copy2: F:\
+0x8ffd970:$copy2: F\x00:\x00\\x00
+0x92c7de3:$copy2: F:\
+0xcee2c09:$copy2: F:\
+0xdebf7a2:$copy2: F:\
+0xe38d5fc:$copy2: F\x00:\x00\\x00
+0xe38d69c:$copy2: F\x00:\x00\\x00
+0xf0f15fc:$copy2: F\x00:\x00\\x00
+0xf0f169c:$copy2: F\x00:\x00\\x00
+0xf6dcc09:$copy2: F:\
+0x1022ff77:$copy2: F:\
+0x1022ffaf:$copy2: F:\
+0x119c40b7:$copy2: F:\
+0x11a523d7:$copy2: F:\
+0x11a524b7:$copy2: F:\
+0x11a52607:$copy2: F:\
+0x11a52677:$copy2: F:\
+0x11a526af:$copy2: F:\
+0x11a5271f:$copy2: F:\
+0x11a52757:$copy2: F:\
+0x11a5278f:$copy2: F:\
+0x11a52a67:$copy2: F:\
+0x11a52a9f:$copy2: F:\
+0x11a52b7f:$copy2: F:\
+0x11a52d77:$copy2: F:\
+0x11ddb3b4:$copy2: F\x00:\x00\\x00
+0x122ce560:$copy2: F\x00:\x00\\x00
+0x122cec74:$copy2: F\x00:\x00\\x00
+0x12ffc9d8:$copy2: F\x00:\x00\\x00
+0x133e322c:$copy2: F\x00:\x00\\x00
+0x139a4df0:$copy2: F\x00:\x00\\x00
+0x13fe0560:$copy2: F\x00:\x00\\x00
+0x143966b4:$copy2: F\x00:\x00\\x00
+0x145c190f:$copy2: F:\
+0x145c1baf:$copy2: F:\
+0x145c1cff:$copy2: F:\
+0x145c1e4f:$copy2: F:\
+0x14716d5c:$copy2: F\x00:\x00\\x00
+0x148ddabb:$copy2: F:\
+0x148dde7b:$copy2: F:\
+0x148ddea4:$copy2: F\x00:\x00\\x00
+0x14a18ee3:$copy2: F:\
+0x14a18f0b:$copy2: F:\
+0x14d80744:$copy2: F\x00:\x00\\x00
+0x14d96412:$copy2: F\x00:\x00\\x00
+0x14ede05c:$copy2: F\x00:\x00\\x00
+0x151b8b43:$copy2: F:\
+0x151b8b93:$copy2: F:\
+0x1534d95c:$copy2: F\x00:\x00\\x00
+0x1534dc4c:$copy2: F\x00:\x00\\x00
+0x1534dfa0:$copy2: F\x00:\x00\\x00
+0x15ac56dc:$copy2: F\x00:\x00\\x00
+0x15f17b98:$copy2: F\x00:\x00\\x00
+0x15f8e7f7:$copy2: F:\
+0x15f8eb07:$copy2: F:\
+0x169f53c8:$copy2: F\x00:\x00\\x00
+0x16c80d17:$copy2: F:\
+0x16eb9454:$copy2: F\x00:\x00\\x00
+0x16eb9aec:$copy2: F\x00:\x00\\x00
+0x16eb9c54:$copy2: F\x00:\x00\\x00
+0x171b0550:$copy2: F\x00:\x00\\x00
+0x17a7c410:$copy2: F\x00:\x00\\x00
+0x17d65fb8:$copy2: F\x00:\x00\\x00
+0x17d65fc8:$copy2: F\x00:\x00\\x00
+0x1972ff77:$copy2: F:\
+0x1972ffaf:$copy2: F:\
+0x197ef4df:$copy2: F:\
+0x197ef747:$copy2: F:\
+0x197ef85f:$copy2: F:\
+0x197efdd7:$copy2: F:\
+0x1ae995fc:$copy2: F\x00:\x00\\x00
+0x1ae9969c:$copy2: F\x00:\x00\\x00
+0x1b254080:$copy2: F\x00:\x00\\x00
+0x1b2545f8:$copy2: F\x00:\x00\\x00
+0x1b40eee3:$copy2: F:\
+0x1b40ef0b:$copy2: F:\
+0x1e033e47:$copy2: F:\
+0x1e15e547:$copy2: F:\
+0x1e15e88f:$copy2: F:\
+0x1e15ea4f:$copy2: F:\
+0x1e15ea87:$copy2: F:\
+0x1e15eaf7:$copy2: F:\
+0x1f77ac09:$copy2: F:\
+0x1f8d7d5c:$copy2: F\x00:\x00\\x00
+0x1fb07718:$copy2: F\x00:\x00\\x00
+0x1fc514df:$copy2: F:\
+0x1fc51747:$copy2: F:\
+0x1fc5185f:$copy2: F:\
+0x1fc51dd7:$copy2: F:\
+0x1fe721b3:$copy2: F:\
+0x200d7460:$copy2: F\x00:\x00\\x00
+0x20242657:$copy2: F:\
+0x2024268f:$copy2: F:\
+0x202426c7:$copy2: F:\
+0x202426ff:$copy2: F:\
+0x2025ae9c:$copy2: F\x00:\x00\\x00
+0x20563920:$copy2: F\x00:\x00\\x00
+0x20599bb1:$copy2: F:\
+0x20b1afc8:$copy2: F:\
+0x20b1afe8:$copy2: F\x00:\x00\\x00
+0x20ea219f:$copy2: F:\
+0x20ea253f:$copy2: F:\
+0x20ea2627:$copy2: F:\
+0x20ea270f:$copy2: F:\
+0x210605fc:$copy2: F\x00:\x00\\x00
+0x2106069c:$copy2: F\x00:\x00\\x00
+0x214057d8:$copy2: F\x00:\x00\\x00
+0x21405a7c:$copy2: F\x00:\x00\\x00
+0x21405b04:$copy2: F\x00:\x00\\x00
+0x2150e970:$copy2: F\x00:\x00\\x00
+0x2157ade5:$copy2: F:\
+0x21612098:$copy2: F\x00:\x00\\x00
+0x21612320:$copy2: F\x00:\x00\\x00
+0x21612344:$copy2: F\x00:\x00\\x00
+0x2179f931:$copy2: F:\
+0x21dece44:$copy2: F\x00:\x00\\x00
+0x2203d03f:$copy2: F:\
+0x223be1d4:$copy2: F\x00:\x00\\x00
+0x225870cf:$copy2: F:\
+0x2267fb74:$copy2: F\x00:\x00\\x00
+0x2267fc27:$copy2: F:\
+0x2267fe1f:$copy2: F:\
+0x227dc70f:$copy2: F:\
+0x22992807:$copy2: F:\
+0x22d75b45:$copy2: F:\
+0x22de4be3:$copy2: F:\
+0x22f9a100:$copy2: F\x00:\x00\\x00
+0x22f9a678:$copy2: F\x00:\x00\\x00
+0x22f9aed8:$copy2: F\x00:\x00\\x00
+0x23199dff:$copy2: F:\
+0x232c5565:$copy2: F:\
+0x232c5c95:$copy2: F:\
+0x234eb05c:$copy2: F\x00:\x00\\x00
+0x239fc410:$copy2: F\x00:\x00\\x00
+0x23b16de3:$copy2: F:\
+0x246f5fb8:$copy2: F\x00:\x00\\x00
+0x246f5fc8:$copy2: F\x00:\x00\\x00
+0x24938a4b:$copy2: F:\
+0x24938c03:$copy2: F:\
+0x24938d93:$copy2: F:\
+0x24938eab:$copy2: F:\
+0x24938f73:$copy2: F:\
+0x24938f9b:$copy2: F:\
+0x24b0cc64:$copy2: F\x00:\x00\\x00
+0x259fa931:$copy2: F:\
+0x25dbaf78:$copy2: F:\
+0x25dbafb0:$copy2: F:\
+0x25dbafe8:$copy2: F:\
+0x297535fc:$copy2: F\x00:\x00\\x00
+0x2975369c:$copy2: F\x00:\x00\\x00
+0x2aad1ee3:$copy2: F:\
+0x2aad1f0b:$copy2: F:\
+0x2b570c08:$copy2: F\x00:\x00\\x00
+0x2ca14b43:$copy2: F:\
+0x2ca14b93:$copy2: F:\
+0x2f8f60cf:$copy2: F:\
+0x3044b048:$copy2: F\x00:\x00\\x00
+0x31c527d8:$copy2: F\x00:\x00\\x00
+0x31c52a7c:$copy2: F\x00:\x00\\x00
+0x31c52b04:$copy2: F\x00:\x00\\x00
+0x32079e47:$copy2: F:\
+0x332496b4:$copy2: F\x00:\x00\\x00
+0x33dce7f7:$copy2: F:\
+0x33dceb07:$copy2: F:\
+0x3400022c:$copy2: F\x00:\x00\\x00
+0x341753c8:$copy2: F\x00:\x00\\x00
+0x347794c0:$copy2: F\x00:\x00\\x00
+0x3491cdf0:$copy2: F\x00:\x00\\x00
+0x350f7560:$copy2: F\x00:\x00\\x00
+0x35758c44:$copy2: F\x00:\x00\\x00
+0x35c28b98:$copy2: F\x00:\x00\\x00
+0x35cb0b98:$copy2: F\x00:\x00\\x00
+0x35ed86dc:$copy2: F\x00:\x00\\x00
+0x3646fc44:$copy2: F\x00:\x00\\x00
+0x364c64c0:$copy2: F\x00:\x00\\x00
+0x369103c8:$copy2: F\x00:\x00\\x00
+0x36efe560:$copy2: F\x00:\x00\\x00
+0x378eadf0:$copy2: F\x00:\x00\\x00
+0x37ca2598:$copy2: F\x00:\x00\\x00
+0x37e9fd17:$copy2: F:\
+0x38d7122c:$copy2: F\x00:\x00\\x00
+0x3930a1fc:$copy2: F\x00:\x00\\x00
+0x396d71b0:$copy2: F\x00:\x00\\x00
+0x396d72a0:$copy2: F\x00:\x00\\x00
+0x396d7570:$copy2: F\x00:\x00\\x00
+0x396d7598:$copy2: F\x00:\x00\\x00
+0x396d7638:$copy2: F\x00:\x00\\x00
+0x396d77c8:$copy2: F\x00:\x00\\x00
+0x39904c44:$copy2: F\x00:\x00\\x00
+0x39d99648:$copy2: F\x00:\x00\\x00
+0x3aae7c44:$copy2: F\x00:\x00\\x00
+0x3abb3130:$copy2: F\x00:\x00\\x00
+0x3abb31a8:$copy2: F\x00:\x00\\x00
+0x3abb32e8:$copy2: F\x00:\x00\\x00
+0x3ad92bd4:$copy2: F\x00:\x00\\x00
+0x3b53a2d3:$copy2: F:\
+0x3b53a873:$copy2: F:\
+0x3b53afcb:$copy2: F:\
+0x3b880cbc:$copy2: F\x00:\x00\\x00
+0x3b931667:$copy2: F:\
+0x3b93169f:$copy2: F:\
+0x3b9317b7:$copy2: F:\
+0x3b931897:$copy2: F:\
+0x3b9318cf:$copy2: F:\
+0x3b93193f:$copy2: F:\
+0x3b931a8f:$copy2: F:\
+0x3b931b37:$copy2: F:\
+0x3b931bdf:$copy2: F:\
+0x3b931c17:$copy2: F:\
+0x3b931cbf:$copy2: F:\
+0x3b931d2f:$copy2: F:\
+0x3b931e7f:$copy2: F:\
+0x3b931f5f:$copy2: F:\
+0x3b931fcf:$copy2: F:\
+0x3b9fb3dc:$copy2: F\x00:\x00\\x00
+0x3ba0cebd:$copy2: F:\
+0x3ba2e625:$copy2: F:\
+0x3bc0173f:$copy2: F:\
+0x3bc01d97:$copy2: F:\
+0x3bd6e7f7:$copy2: F:\
+0x3bd6eb07:$copy2: F:\
+0x3c0b0077:$copy2: F:\
+0x3c0b00e7:$copy2: F:\
+0x3c0b0184:$copy2: F\x00:\x00\\x00
+0x3c0b0467:$copy2: F:\
+0x3c0b05ef:$copy2: F:\
+0x3c0ea1fc:$copy2: F\x00:\x00\\x00
+0x3c3e2077:$copy2: F:\
+0x3c3e20e7:$copy2: F:\
+0x3c3e2184:$copy2: F\x00:\x00\\x00
+0x3c3e2467:$copy2: F:\
+0x3c3e25ef:$copy2: F:\
+0x3c462667:$copy2: F:\
+0x3c46269f:$copy2: F:\
+0x3c4627b7:$copy2: F:\
+0x3c462897:$copy2: F:\
+0x3c4628cf:$copy2: F:\
+0x3c46293f:$copy2: F:\
+0x3c462a8f:$copy2: F:\
+0x3c462b37:$copy2: F:\
+0x3c462bdf:$copy2: F:\
+0x3c462c17:$copy2: F:\
+0x3c462cbf:$copy2: F:\
+0x3c462d2f:$copy2: F:\
+0x3c462e7f:$copy2: F:\
+0x3c462f5f:$copy2: F:\
+0x3c462fcf:$copy2: F:\
+0x3c76b620:$copy2: F\x00:\x00\\x00
+0x3c80e037:$copy2: F:\
+0x3c80e0df:$copy2: F:\
+0x3c80e267:$copy2: F:\
+0x3c84788d:$copy2: F:\
+0x3cb50b7b:$copy2: F:\
+0x3cb50d0b:$copy2: F:\
+0x3cc5aa3f:$copy2: F:\
+0x3cc5aae7:$copy2: F:\
+0x3cc5abff:$copy2: F:\
+0x3cf37d2d:$copy2: F:\
+0x3d6f8d3c:$copy2: F\x00:\x00\\x00
+0x3d8d66ec:$copy2: F\x00:\x00\\x00
+0x3d92f970:$copy2: F\x00:\x00\\x00
+0x3dcdf0df:$copy2: F:\
+0x3dcdf14f:$copy2: F:\
+0x3f2a9ee8:$copy2: F\x00:\x00\\x00
+0x3f97775c:$copy2: F\x00:\x00\\x00
+0x3f977ad4:$copy2: F\x00:\x00\\x00
+0x3fbb6ecc:$copy2: F\x00:\x00\\x00

@@ -1,0 +1,3 @@
+Volatility Foundation Volatility Framework 2.6.1
+*** Failed to import volatility.plugins.registry.shutdown (ImportError: No module named Crypto.Hash)
+*** Failed to import volatility.plugins.getservicesids (ImportError: No module named Crypto.Hash)
