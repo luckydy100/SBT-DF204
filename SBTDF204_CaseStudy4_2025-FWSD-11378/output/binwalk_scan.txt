@@ -1,0 +1,49 @@
+=== f0104057.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+=== f0104249.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+
+=== f0105065.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+=== f0105873.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+
+=== f0106393.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.00
+
+
+=== f0106409.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+=== f0335081.jpg ===
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+

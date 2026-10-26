@@ -1,0 +1,175 @@
+Using locale 'en_US.UTF-8'.
+
+
+Mon Oct 26 02:22:49 2026
+Command line: PhotoRec /log /d ./ /cmd ../working/RHINOUSB_working.dd search
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.16.8+kali-amd64 (#1 SMP PREEMPT_DYNAMIC Kali 6.16.8-1kali1 (2025-09-24)) x86_64
+Compiler: GCC 14.2
+ext2fs lib: 1.47.2, ntfs lib: libntfs-3g, ewf lib: none, libjpeg: libjpeg-turbo-2.1.5, curses lib: ncurses 6.5
+User is not root!
+Hard disk list
+Disk ../working/RHINOUSB_working.dd - 259 MB / 247 MiB - CHS 1022 8 62 (RO), sector size=512
+
+Partition table type (auto): None
+Disk ../working/RHINOUSB_working.dd - 259 MB / 247 MiB (RO)
+Partition table type: None
+     Unknown                  0   0  1  1021   6 60     506848 [Whole disk]
+   P FAT16                    0   0  1  1021   6 60     506848
+     FAT16, blocksize=4096, 259 MB / 247 MiB
+743 first-level signatures enabled
+
+Analyse
+   P FAT16                    0   0  1  1021   6 60     506848
+     FAT16, blocksize=4096, 259 MB / 247 MiB
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=512
+Elapsed time 0h00m01s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+./recup_dir.1/f0000529.txt	 529-536
+./recup_dir.1/f0000537.txt	 537-544
+./recup_dir.1/f0000545.txt	 545-104056
+./recup_dir.1/f0104057.jpg	 104057-104248
+./recup_dir.1/f0104249.jpg	 104249-105064
+./recup_dir.1/f0105065.jpg	 105065-105872
+./recup_dir.1/f0105873.jpg	 105873-106392
+./recup_dir.1/f0106393.jpg	 106393-106408
+./recup_dir.1/f0106409.jpg	 106409-106864
+./recup_dir.1/f0106865.gif	 106865-106888
+./recup_dir.1/f0106889.gif	 106889-106904
+./recup_dir.1/f0106905.txt	 106905-335016
+./recup_dir.1/f0335017_She_died_in_February_at_the_age_of_74.doc	 335017-335080
+./recup_dir.1/f0335081.jpg	 335081-335600
+./recup_dir.1/f0335601.txt	 335601-335944
+./recup_dir.1/f0335945.txt	 335945-336456
+./recup_dir.1/f0336457.txt	 336457-336968
+./recup_dir.1/f0336969.txt	 336969-337480
+./recup_dir.1/f0337489.txt	 337489-338000
+./recup_dir.1/f0338001.txt	 338001-338512
+./recup_dir.1/f0338513.txt	 338513-339024
+./recup_dir.1/f0339025.txt	 339025-339536
+./recup_dir.1/f0339545.txt	 339545-340056
+./recup_dir.1/f0340057.txt	 340057-340568
+./recup_dir.1/f0340569.txt	 340569-341080
+./recup_dir.1/f0341081.txt	 341081-341592
+./recup_dir.1/f0341601.txt	 341601-342112
+./recup_dir.1/f0342113.txt	 342113-342624
+./recup_dir.1/f0342625.txt	 342625-343136
+./recup_dir.1/f0343137.txt	 343137-343648
+./recup_dir.1/f0343657.txt	 343657-344072
+./recup_dir.1/f0344585.txt	 344585-344680
+./recup_dir.1/f0344681.txt	 344681-345192
+./recup_dir.1/f0345201.txt	 345201-345712
+./recup_dir.1/f0345713.txt	 345713-346224
+./recup_dir.1/f0346225.txt	 346225-346736
+./recup_dir.1/f0346737.txt	 346737-347248
+./recup_dir.1/f0347257.txt	 347257-347768
+./recup_dir.1/f0347769.txt	 347769-348280
+./recup_dir.1/f0348281.txt	 348281-348792
+./recup_dir.1/f0348793.txt	 348793-349304
+./recup_dir.1/f0349313.txt	 349313-349824
+./recup_dir.1/f0349825.txt	 349825-350336
+./recup_dir.1/f0350337.txt	 350337-350848
+./recup_dir.1/f0350849.txt	 350849-351360
+./recup_dir.1/f0351369.txt	 351369-351880
+./recup_dir.1/f0351881.txt	 351881-352392
+./recup_dir.1/f0352393.txt	 352393-352904
+./recup_dir.1/f0352905.txt	 352905-353416
+./recup_dir.1/f0353425.txt	 353425-353936
+./recup_dir.1/f0353937.txt	 353937-354448
+./recup_dir.1/f0354449.txt	 354449-354960
+./recup_dir.1/f0354961.txt	 354961-355472
+./recup_dir.1/f0355481.txt	 355481-355992
+./recup_dir.1/f0355993.txt	 355993-356504
+./recup_dir.1/f0356505.txt	 356505-357016
+./recup_dir.1/f0357017.txt	 357017-357528
+./recup_dir.1/f0357537.txt	 357537-358048
+./recup_dir.1/f0358049.txt	 358049-358560
+./recup_dir.1/f0358561.txt	 358561-359072
+./recup_dir.1/f0359073.txt	 359073-359584
+./recup_dir.1/f0359593.txt	 359593-360104
+./recup_dir.1/f0360105.txt	 360105-360456
+./recup_dir.1/f0360969.txt	 360969-361128
+./recup_dir.1/f0361137.txt	 361137-361648
+./recup_dir.1/f0361649.txt	 361649-362160
+./recup_dir.1/f0362161.txt	 362161-362672
+./recup_dir.1/f0362673.txt	 362673-363184
+./recup_dir.1/f0363193.txt	 363193-363704
+./recup_dir.1/f0363705.txt	 363705-364216
+./recup_dir.1/f0364217.txt	 364217-364728
+./recup_dir.1/f0364729.txt	 364729-365240
+./recup_dir.1/f0365249.txt	 365249-365760
+./recup_dir.1/f0365761.txt	 365761-366272
+./recup_dir.1/f0366273.txt	 366273-366784
+./recup_dir.1/f0366785.txt	 366785-367296
+./recup_dir.1/f0367305.txt	 367305-367816
+./recup_dir.1/f0367817.txt	 367817-368328
+./recup_dir.1/f0368329.txt	 368329-368840
+./recup_dir.1/f0368841.txt	 368841-369352
+./recup_dir.1/f0369361.txt	 369361-369872
+./recup_dir.1/f0369873.txt	 369873-370384
+./recup_dir.1/f0370385.txt	 370385-370896
+./recup_dir.1/f0370897.txt	 370897-371408
+./recup_dir.1/f0371417.txt	 371417-371928
+./recup_dir.1/f0371929.txt	 371929-372440
+./recup_dir.1/f0372441.txt	 372441-372952
+./recup_dir.1/f0372953.txt	 372953-373464
+./recup_dir.1/f0373473.txt	 373473-373984
+./recup_dir.1/f0373985.txt	 373985-374496
+./recup_dir.1/f0374497.txt	 374497-375008
+./recup_dir.1/f0375009.txt	 375009-375520
+./recup_dir.1/f0375529.txt	 375529-376040
+./recup_dir.1/f0376041.txt	 376041-376552
+./recup_dir.1/f0376553.txt	 376553-376840
+./recup_dir.1/f0377353.txt	 377353-377584
+./recup_dir.1/f0377585.txt	 377585-378096
+./recup_dir.1/f0378097.txt	 378097-378608
+./recup_dir.1/f0378609.txt	 378609-379120
+./recup_dir.1/f0379129.txt	 379129-379640
+./recup_dir.1/f0379641.txt	 379641-380152
+./recup_dir.1/f0380153.txt	 380153-380664
+./recup_dir.1/f0380665.txt	 380665-381176
+./recup_dir.1/f0381185.txt	 381185-381696
+./recup_dir.1/f0381697.txt	 381697-382208
+./recup_dir.1/f0382209.txt	 382209-382720
+./recup_dir.1/f0382721.txt	 382721-383232
+./recup_dir.1/f0383241.txt	 383241-383752
+./recup_dir.1/f0383753.txt	 383753-384264
+./recup_dir.1/f0384265.txt	 384265-384776
+./recup_dir.1/f0384777.txt	 384777-385288
+./recup_dir.1/f0385297.txt	 385297-385808
+./recup_dir.1/f0385809.txt	 385809-386320
+./recup_dir.1/f0386321.txt	 386321-386832
+./recup_dir.1/f0386833.txt	 386833-387344
+./recup_dir.1/f0387353.txt	 387353-387864
+./recup_dir.1/f0387865.txt	 387865-388376
+./recup_dir.1/f0388377.txt	 388377-388888
+./recup_dir.1/f0388889.txt	 388889-389400
+./recup_dir.1/f0389409.txt	 389409-389920
+./recup_dir.1/f0389921.txt	 389921-390432
+./recup_dir.1/f0390433.txt	 390433-390944
+./recup_dir.1/f0390945.txt	 390945-391456
+./recup_dir.1/f0391465.txt	 391465-391976
+./recup_dir.1/f0391977.txt	 391977-392488
+./recup_dir.1/f0392489.txt	 392489-393000
+./recup_dir.1/f0393001.txt	 393001-393224
+./recup_dir.1/f0393737.txt	 393737-394032
+./recup_dir.1/f0394033.txt	 394033-394544
+./recup_dir.1/f0394545.txt	 394545-395056
+./recup_dir.1/f0395065.txt	 395065-395576
+./recup_dir.1/f0395577.txt	 395577-396088
+./recup_dir.1/f0396089.txt	 396089-396600
+./recup_dir.1/f0396601.txt	 396601-396848
+Elapsed time 0h00m03s
+Pass 1 +134 files
+txt: 124/124 recovered
+jpg: 7/7 recovered
+gif: 2/2 recovered
+doc: 1/1 recovered
+Total: 134 files found
+
+112800 sectors contain unknown data, 0 invalid files found and rejected.
+PhotoRec exited normally.

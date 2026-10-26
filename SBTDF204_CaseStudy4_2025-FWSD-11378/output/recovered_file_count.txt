@@ -1,0 +1,5 @@
+    124 txt
+      7 jpg
+      2 gif
+      1 xml
+      1 doc

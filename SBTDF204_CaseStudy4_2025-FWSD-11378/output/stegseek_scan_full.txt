@@ -1,0 +1,49 @@
+==============================================
+=== f0104057.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0104249.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0105065.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0105873.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0106393.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0106409.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+
+==============================================
+=== f0335081.jpg ===
+==============================================
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[!] error: could not open the wordlist "/usr/share/wordlists/rockyou.txt".
+

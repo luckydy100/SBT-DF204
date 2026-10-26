@@ -1,0 +1,27 @@
+=== Evidence Acquisition Record ===
+Date: 2026-10-26 05:54:10 UTC
+
+=== Original file hashes (SHA-256) ===
+64e6d55b76660eb3aaa41572c1d04e4452510a343bbf42e844424827dedfddb2  rhino.log
+41939d5de0556b70279056572dee44b6fd84cd05b0788cfd0b6f52f37b161dde  rhino2.log
+7b0304f5e88a30c305a99b5a1e2977bced5b9c94da6f458f887bb39966bbfc46  rhino3.log
+ce550424200a997c61b413941c8ef4df9619a2f96579674952294a176a32be65  RHINOUSB.dd
+
+=== Working copy hashes (SHA-256) ===
+64e6d55b76660eb3aaa41572c1d04e4452510a343bbf42e844424827dedfddb2  rhino_working.log
+41939d5de0556b70279056572dee44b6fd84cd05b0788cfd0b6f52f37b161dde  rhino2_working.log
+7b0304f5e88a30c305a99b5a1e2977bced5b9c94da6f458f887bb39966bbfc46  rhino3_working.log
+ce550424200a997c61b413941c8ef4df9619a2f96579674952294a176a32be65  RHINOUSB_working.dd
+
+=== Original file sizes (bytes) ===
+3614418 ../evidence/DFRWS2005-RODEO.zip
+292604 ../evidence/rhino2.log
+226094 ../evidence/rhino3.log
+3187907 ../evidence/rhino.log
+259506176 ../evidence/RHINOUSB.dd
+
+=== MD5 verification against deck values ===
+MD5(rhino.log)= c0d0093eb1664cd7b73f3a5225ae3f30
+MD5(rhino2.log)= cd21eaf4acfb50f71ffff857d7968341
+MD5(rhino3.log)= 7e29f9d67346df25faaf18efcd95fc30
+MD5(RHINOUSB.dd)= 80348c58eec4c328ef1f7709adc56a54

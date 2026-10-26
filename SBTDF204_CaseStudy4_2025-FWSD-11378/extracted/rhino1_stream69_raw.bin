@@ -1,0 +1,17 @@
+220 cook FTP server ready.
+USER gnome
+331 Password required for gnome.
+PASS gnome123
+230 User gnome logged in.
+TYPE I
+200 Type set to I.
+PORT 137,30,122,253,6,121
+200 PORT command successful.
+STOR rhino1.jpg
+150 Opening BINARY mode data connection for rhino1.jpg.
+226 Transfer complete.
+QUIT
+221-You have transferred 65703 bytes in 1 files.
+221-Total traffic for this session was 66042 bytes in 1 transfers.
+221-Thank you for using the FTP service on cook.
+221 Goodbye.
